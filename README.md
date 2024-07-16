@@ -1,1 +1,2 @@
-# consolidated-project
+HI
+THIS IS MY JOUNEY TO LEARNING "C"

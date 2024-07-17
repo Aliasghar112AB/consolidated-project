@@ -15,4 +15,5 @@ add_executable(consolidated-project
         Struct-union/project/Struct-Union.c
         StudentInfo/project/StudentInfo.c
         ReadFile/project/ReadFile.c
+        DynamicMemory/project/Memory.c
 )
